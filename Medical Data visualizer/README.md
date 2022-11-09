@@ -17,4 +17,4 @@ the objectives are :
 > > * weight is more than the 97.5th percentile
 > 3. Create a correlation matrix using the dataset. Plot the correlation matrix using seaborn's heatmap(). Mask the upper triangle. The chart should look like examples/Figure_2.png.
 <br>
-Click <a href='https://replit.com/@FarrazNouval1/boilerplate-medical-data-visualizer>here</a> to see my repl on replit.
+Click <a href='https://replit.com/@FarrazNouval1/boilerplate-medical-data-visualizer'>here</a> to see my repl on replit.
