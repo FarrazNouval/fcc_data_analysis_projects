@@ -13,3 +13,5 @@ The objectives is use Pandas to answer the following questions:
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India.
 Using the starter code in the file demographic_data_analyzer, and round all decimals to the nearest tenth.
+<br>
+Click <a href='https://replit.com/@FarrazNouval1/fcc-demographic-data-analyzer-solution'>here</a> to see my repl in replit.
