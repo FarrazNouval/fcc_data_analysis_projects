@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-This is the second project of freeCodeCamp Demographic Data Analyzer. <br>
+This is the second project of freeCodeCamp Data Anlysis with Python Course. <br>
 The objectives is use Pandas to answer the following questions:
 
 * How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
